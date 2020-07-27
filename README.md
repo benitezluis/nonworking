@@ -3,10 +3,10 @@ porque es muy poco el css que se necesita para la tabla, botones y formulario
 
 ## para levantar con docker
 
-docker build -t <your username>/no-laborables .
+docker build -t <your username>/no-laborables .<br />
 docker-compose up
 
 ## para levantar manualmente
 
-npm install
+npm install<br />
 npm start
